@@ -1,5 +1,7 @@
 如果你希望研究比特币的私钥，第一步就是要拥有全节点钱包，并想办法提取它所有的信息，然后针对这些信息，去反向研究。这是基础。
-<img width="1108" height="480" alt="image" src="https://github.com/user-attachments/assets/54cd0108-11ae-49>
+
+<img width="960" height="480" alt="image" src="https://github.com/user-attachments/assets/10e4aef6-6fae-4830-a065-a8d9c1f33ba9" />
+
 
 # BitCoinn-
 BitCoinn内核查询余额,Python + Ubuntu
