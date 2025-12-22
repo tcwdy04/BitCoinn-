@@ -2,7 +2,7 @@
 
 <img width="960" height="480" alt="image" src="https://github.com/user-attachments/assets/10e4aef6-6fae-4830-a065-a8d9c1f33ba9" />
 
-
+无论你选择在线查询余额，还是希望通过全节点导出有未花费uxto的地址，首先第一步就是要搞懂比特币数据库的设计原理，搭建最基础的比特币查询模型，否则一切都是扯淡。
 # BitCoinn-
 BitCoinn内核查询余额,Python + Ubuntu
 
